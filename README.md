@@ -1,5 +1,5 @@
 # Multi-Agent Research System
-
+Live link: https://multiagentresearchsystem-ytogeaxylujhz3rnjcoa6p.streamlit.app/#multi-agent-research-system
 An open-source research assistant that turns a topic into a structured research report through a focused, four-stage agent workflow. It searches the web, extracts readable page content, writes a report, and then asks a dedicated critic to evaluate the result.
 
 The project is built with LangChain, Groq, Tavily, and Streamlit.
